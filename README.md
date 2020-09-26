@@ -12,7 +12,7 @@
 -->
 
 
-# Hi ✌🏽 I'm Carlos Rodrigues :man_technologist
+# Hi ✌🏽 I'm Carlos Rodrigues 👨🏽‍💻
 
 Freelance developer and consultant
 
